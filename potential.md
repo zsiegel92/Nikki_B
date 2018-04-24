@@ -1,11 +1,20 @@
-## What is Electric Potential?
+# What is Electric Potential?
+
+Read about Electric Force ($F_E$), Electric Field ($E$), Electric Potential Energy ($PE_E$ or $U$), and Potential Difference ($\Delta V$), and it will become clearer.
 
 
 
+## Electric Force - Coulomb's Law
 
+*Coulomb's Law* states that the Electric Force ($F_E$) between two charged particles (with charges $q_1$ and $q_2$), separated by a distance ($r$) is:
 
+$$F_E = \frac{kq_1 q_2}{r^2}$$
 
+Distance is measured in *meters* ($m$), charge is measured in *coulombs* ($C$), and Force is measured in *newtons* ($N$). The constant $k$ is equal to $9\times 10^9 \frac{Nm^2}{C^2}$.
 
+<img src="coulomb1.jpg" width="100" alt="force"/>
+
+We see that the Force
 
 
 ## Videos
