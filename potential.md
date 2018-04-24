@@ -12,7 +12,7 @@ $$F_E = \frac{kq_1 q_2}{r^2}$$
 
 Distance is measured in *meters* ($m$), charge is measured in *coulombs* ($C$), and Force is measured in *newtons* ($N$). The constant $k$ is equal to $9\times 10^9 \frac{Nm^2}{C^2}$.
 
-<img src="coulomb1.jpg" width="100" alt="force"/>
+<img src="coulomb1.jpg" width="200" alt="force"/>
 
 We see that the Force
 
