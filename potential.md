@@ -54,7 +54,7 @@ We can also rearrange this as
 
 $$ E = \frac{F}{q}$$
 
-to **characterize Electric Field as *Force per unit charge***.
+to **characterize Electric Field as *Force per unit charge* **.
 
 Force has units *newtons* ($N$), charge has units *coulombs* ($C$), and electric field has units *newtons per coulomb* ($\frac{N}{C}$).
 
