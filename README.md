@@ -1,7 +1,7 @@
 # Conceptual Physics
 
 ## Full Topics
-* [Electric Potential](zsiegel92.github.io/Nikki_B/potential)
+* [Electric Potential](/potential)
 * Another topic
 
 
