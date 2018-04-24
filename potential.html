@@ -1105,12 +1105,35 @@ MathJax.Hub.Config({
 </script>
 <title>potential</title></head><body><article class="markdown-body"><h1 id="what-is-electric-potential"><a name="user-content-what-is-electric-potential" href="#what-is-electric-potential" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>What is Electric Potential?</h1>
 <p>Read about Electric Force ($F_E$), Electric Field ($E$), Electric Potential Energy ($PE_E$ or $U$), and Potential Difference ($\Delta V$), and it will become clearer.</p>
-<h2 id="electric-force-coulombs-law"><a name="user-content-electric-force-coulombs-law" href="#electric-force-coulombs-law" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Electric Force - Coulomb's Law</h2>
+<h2 id="electric-force-coulombs-law-electric-field"><a name="user-content-electric-force-coulombs-law-electric-field" href="#electric-force-coulombs-law-electric-field" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Electric Force - Coulomb's Law, Electric Field</h2>
 <p><em>Coulomb's Law</em> states that the Electric Force ($F_E$) between two charged particles (with charges $q_1$ and $q_2$), separated by a distance ($r$) is:</p>
 <p>$$F_E = \frac{kq_1 q_2}{r^2}$$</p>
 <p>Distance is measured in <em>meters</em> ($m$), charge is measured in <em>coulombs</em> ($C$), and Force is measured in <em>newtons</em> ($N$). The constant $k$ is equal to $9\times 10^9 \frac{Nm^2}{C^2}$.</p>
 <p><img src="coulomb1.jpg" width="200" alt="force"/></p>
-<p>We see that the Force</p>
+<p>Newton's Third Law tells us that for every force there is an equal and opposite force. We see that the force on particle 2 ($F_{12}$) is equal in magnitude and opposite in direction to the force on particle 1 ($F_{21}$).</p>
+<p>If we write coulomb's law slightly differently, we can see that the force on a particle is proportional to its own charge:</p>
+<p>$$F_{12} = \frac{kq_1}{r^2} \times q_2$$</p>
+<p>and so</p>
+<p>$$F_{12}\propto q_2$$</p>
+<p>That is, if we <em>double</em> $q_2$, we <em>double</em> $F_{12}$; if we <em>triple</em> $q_2$, we <em>triple</em> $F_{12}$, etc..</p>
+<p>If we think separately about the effect of particle 1 at distance $r$, and particle 2's charge, we see:</p>
+<p>$\underbrace{F_{12}}_\text{Force on particle 2} =  \underbrace{\frac{kq_1}{r^2}}_\text{effect of particle 1 at distance $r$} \times q_2$</p>
+<p>We call the effect of particle 1 at distance $r$ the <em>electric field</em> due to particle 1,</p>
+<p>$$E_1 = \underbrace{\frac{kq_1}{r^2}}_{\text{effect of particle 1 at distance $r$}}$$</p>
+<p>which allows us to refer to the force on particle 2 ($F_{12}$) as:</p>
+<p>$$<br />
+\begin{align*}<br />
+F_{12} &amp;= \frac{kq_1}{r^2} &amp;\times q_2 \\<br />
+&amp;= \underbrace{E_1}_\text{effect of particle 1 at distance $r$} &amp;\times q_2 \\<br />
+\end{align*}<br />
+$$</p>
+<p>This gives the equation</p>
+<p>$$F = Eq$$</p>
+<p>where $E$ depends on <em>charge somewhere</em>, but $q$ refers to the charge of the particle experiencing the force.</p>
+<p>We can also rearrange this as</p>
+<p>$$ E = \frac{F}{q}$$</p>
+<p>to <strong>characterize Electric Field as *Force per unit charge</strong>*.</p>
+<p>Force has units <em>newtons</em> ($N$), charge has units <em>coulombs</em> ($C$), and electric field has units <em>newtons per coulomb</em> ($\frac{N}{C}$).</p>
 <h2 id="videos"><a name="user-content-videos" href="#videos" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Videos</h2>
 <h3 id="visual-analogy-to-gravitational-potential-which-depends-on-height-and-is-realized-through-falling"><a name="user-content-visual-analogy-to-gravitational-potential-which-depends-on-height-and-is-realized-through-falling" href="#visual-analogy-to-gravitational-potential-which-depends-on-height-and-is-realized-through-falling" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Visual Analogy to Gravitational Potential (which depends on height and is realized through "falling")</h3>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/-Rb9guSEeVE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
