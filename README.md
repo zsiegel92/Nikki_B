@@ -1,7 +1,7 @@
 # Conceptual Physics
 
 ## Full Topics
-* [Electric Potential](Nikki_B/potential)
+* [Electric Potential](/Nikki_B/potential)
 * Another topic
 
 
