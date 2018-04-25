@@ -2,7 +2,7 @@
 
 ## Full Topics
 * [Electric Potential](potential.html)
-* Another topic
+* [Circuits](circuits.html)
 
 
 ## Assorted Topics:
