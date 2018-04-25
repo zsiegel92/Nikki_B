@@ -1,5 +1,7 @@
 # Review of Work and Power!
 
+Pages 110-120 in your textbook tell this same story, but the video in this page may be a faster way to absorb that material.
+
 ## Work
 $$W = F \times d$$
 
