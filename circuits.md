@@ -2,6 +2,7 @@
 
 # What is a Circuit
 
+Pages 431-445 in your textbook cover this material.
 
 ## Introduction to Circuits
 
@@ -37,6 +38,13 @@ $$
 	We did this <em>exact</em> derivation <em>today</em> (4/24/18)! This video is your second time seeing it!<br><br>
 </div>
 
+## DC Resistors and Batteries
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G3H5lKoWPpY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g-wjP1otQWI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Series and Parallel Circuits - Circuit Analysis
 

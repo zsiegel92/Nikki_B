@@ -2,7 +2,7 @@
 
 # Electric Force, Electric Field, Electric Potential Energy, Electric Potential?
 
-Read about Electric Force ($F_E$), Electric Field ($E$), Electric Potential Energy ($PE_E$ or $U$), and Potential Difference ($\Delta V$), and it will become clearer.
+Read about Electric Force ($F_E$), Electric Field ($E$), Electric Potential Energy ($PE_E$ or $U$), and Potential Difference ($\Delta V$). Pages 407-424 in textbook cover this topic.
 
 
 ## Electric Force - Coulomb's Law, Electric Field
