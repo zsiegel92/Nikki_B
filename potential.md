@@ -1,3 +1,5 @@
+[Back to all lessons](.)
+
 # Electric Force, Electric Field, Electric Potential Energy, Electric Potential?
 
 Read about Electric Force ($F_E$), Electric Field ($E$), Electric Potential Energy ($PE_E$ or $U$), and Potential Difference ($\Delta V$), and it will become clearer.
@@ -71,7 +73,8 @@ Force has units *newtons* ($N$), charge has units *coulombs* ($C$), and electric
 
 ### Video on Electric Potential
 
-* 0:52- what is a capacitor?
+* 0:52-1:33 What is a capacitor?
+* And notes on Electric Potential Energy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZrMltpK6iAw?start=51" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
