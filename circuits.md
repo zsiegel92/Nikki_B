@@ -5,7 +5,7 @@
 
 ## Introduction to Circuits
 
-*
+* 04:45-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HXOok3mfMLM?rel=0&amp;start=43" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
