@@ -64,20 +64,58 @@ Force has units *newtons* ($N$), charge has units *coulombs* ($C$), and electric
 * 1:20-2:30 is about $E=\frac{F}{q}$
 * 2:30-6:00 is an **excellent** explanation of *electric field lines*
 * 6:00-6:45 introduces capacitors
-* 6:45-7:50 explains why **the electric field inside a conductor is $0$*.
+* 6:45-7:50 explains why **the electric field inside a conductor is $0$**.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mdulzEfQXDE?rel=0&amp;start=80" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## What is Electric Potential?
 
-### Video on Electric Potential
+### Video on Electric Potential (cool British woman))
 
 * 0:52-1:33 What is a capacitor?
-* And notes on Electric Potential Energy
-
+* 1:33-2:27 **Potential energy** of a particle in a uniform electric field (between plates of capacitor)
+* 2:27-3:01 **Electric Potential** and $V = \frac{\Delta PE}{q} = Ed$ (See **&hearts;Note**)
+* 3:01- Calculating $V$
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZrMltpK6iAw?start=51" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+**&hearts;Note**: We know does $V = \frac{\Delta PE}{q}$, but why does $V = Ed$ as well?
+
+$$
+\begin{align\*}
+V &= \frac{\Delta PE}{q}\\\\
+\\\\
+&= \frac{\overbrace{W}^{W=\Delta E}}{q}\\\\
+\\\\
+&= \frac{\overbrace{Fd}^{W=Fd}}{q}\\\\
+\\\\
+&= \frac{F}{q}d\\\\
+\\\\
+&= \overbrace{E}^{E=\frac{F}{q}}d
+\end{align\*}
+$$
+thus, we see $V=Ed$.
+
+#### Units of Electric Field: $V/m$ or $N/C$?
+
+We can rearrange $V=Ed$ to $E=\frac{V}{d}$...but we already know $E=\frac{F}{q}$!
+
+Let's compare $\underbrace{E}\_\text{$V/m$}=\frac{\overbrace{V}^\text{Volts ($1V = 1J/C$)}}{\underbrace{d}\_\text{meters ($m$)}}$ to $\underbrace{E}\_\text{$N/C$}=\frac{\overbrace{F}^\text{Newtons ($N$)}}{\underbrace{q}\_\text{Coulombs ($C$)}}$.
+
+(Remember that $1V = 1J/C = \frac{1J}{1C} = \frac{1Nm}{1C} = \frac{(1N)(1m)}{1C}$)
+
+$$
+\begin{align\*}
+1 V/m &= \frac{1V}{1m}\\\\
+&=(1V)\times \frac{1}{1m}\\\\
+&= \frac{(1N)(1m)}{1C}\times \frac{1}{1m}\\\\
+&= \frac{(1N)(\cancel{1m})}{1C} \times \frac{1}{\cancel{1m}}\\\\
+&= \frac{1N}{1C}\\\\
+&= 1N/C
+\end{align\*}
+$$
+
+So, $1V/m = 1 N/C$, and both measure the exact same thing - *electric field*.
 
 ## Videos
 
@@ -88,7 +126,14 @@ Force has units *newtons* ($N$), charge has units *coulombs* ($C$), and electric
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wT9AsY79f1k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Capacitance, Electric Field, Voltage
-### (and cool British woman)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZrMltpK6iAw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Register.StartupHook("TeX Jax Ready",function () {
+  MathJax.Hub.Insert(MathJax.InputJax.TeX.Definitions.macros,{
+    cancel: ["Extension","cancel"],
+    bcancel: ["Extension","cancel"],
+    xcancel: ["Extension","cancel"],
+    cancelto: ["Extension","cancel"]
+  });
+});
+</script>
