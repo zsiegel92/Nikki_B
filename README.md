@@ -4,7 +4,7 @@
 * [Review of Work and Power](work_power.html)
 * [Electric Potential](potential.html)
 * [Circuits](circuits.html)
-
+* [Other Topics](unfinished.html)
 
 ## Assorted Topics:
 
