@@ -21,12 +21,7 @@ Crash Course vid:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5fqwJyt4Lus" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-## Maxwell's Equations, Electromagnetic Natur of Light
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K40lNL3KsJ4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Inductance
+## Induction
 
 Crash Course Vid:
 
@@ -42,3 +37,7 @@ Relaxing Vid:
 Crash Course Vid:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jveer7vhjGo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Maxwell's Equations, Electromagnetic Natur of Light
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K40lNL3KsJ4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
