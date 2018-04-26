@@ -6,6 +6,11 @@
 * [Circuits](circuits.html)
 * [Other Topics](unfinished.html)
 
+## Textbook
+
+Course focuses on chapters 19, 20, 22, 23, 24, 25, and 26 from [the textbook](https://drive.google.com/file/d/19d94qV01WXj7EmBJv-GL8lVnIX2wX89a/view?usp=sharing)
+
+
 ## Assorted Topics:
 
 ### Doppler Effect
