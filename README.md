@@ -1,5 +1,7 @@
 # Conceptual Physics
 
+Source for this website [here](github.com/zsiegel92/Nikki_B)
+
 ## Full Topics
 * [Review of Work and Power](work_power.html)
 * [Electric Potential](potential.html)
