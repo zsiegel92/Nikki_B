@@ -27,3 +27,7 @@ Course focuses on chapters 19, 20, 22, 23, 24, 25, and 26 from [the textbook](ht
 #### Lab/Demo of Beats
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yia8spG8OmA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Mental Health
+
+<iframe src="http://content.jwplatform.com/players/PLMHiaOg-GZZAtvYh.html" width="320" height="260" frameborder="0" scrolling="auto"></iframe>
