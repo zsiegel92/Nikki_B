@@ -6,8 +6,8 @@ Source for this website [here](https://github.com/zsiegel92/Nikki_B)
 * [Review of Work and Power](work_power.html)
 * [Electric Potential](potential.html)
 * [Circuits](circuits.html)
-* [Other Topics](unfinished.html)
 * [Light](light.html)
+* [Other Topics](unfinished.html)
 
 ## Textbook
 
