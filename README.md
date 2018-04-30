@@ -42,6 +42,7 @@ Course focuses on chapters 19, 20, 22, 23, 24, 25, and 26 from [the textbook](ht
 
 <iframe src="http://content.jwplatform.com/players/wNMqm3Mu-GZZAtvYh.html" width="560" height="315" frameborder="0" scrolling="auto"></iframe>
 
+
 <!--
 <iframe src="http://content.jwplatform.com/players/sjFSyhN5-GZZAtvYh.html" width="640" height="360" frameborder="0" scrolling="auto" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
