@@ -32,6 +32,8 @@ Course focuses on chapters 19, 20, 22, 23, 24, 25, and 26 from [the textbook](ht
 
 ### Mental Health
 
+<iframe src="//content.jwplatform.com/players/FdSiG2RX-GZZAtvYh.html" width="320" height="260" frameborder="0" scrolling="auto"></iframe>
+
 <iframe src="http://content.jwplatform.com/players/PLMHiaOg-GZZAtvYh.html" width="560" height="315" frameborder="0" scrolling="auto"></iframe>
 
 ([Link if not loading](http://content.jwplatform.com/players/PLMHiaOg-GZZAtvYh.html))
