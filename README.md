@@ -7,6 +7,7 @@ Source for this website [here](https://github.com/zsiegel92/Nikki_B)
 * [Electric Potential](potential.html)
 * [Circuits](circuits.html)
 * [Other Topics](unfinished.html)
+* [Light](light.html)
 
 ## Textbook
 
