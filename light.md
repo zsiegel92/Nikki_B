@@ -86,6 +86,10 @@ Physics professors talking about light passing through glass (at 1.25x speed).
  // Written by @labnol
 </script>
 
+## Crash Course 40 - *Spectra Interference*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ob7foUzXaY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Refraction and Total Internal Reflection Applet
 
 <iframe width = "800" height="500" src="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_en.html"></iframe>
@@ -99,7 +103,9 @@ Physics professors talking about light passing through glass (at 1.25x speed).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/flPSbngdLwI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+## Crash Course 41 - *Optical Instruments*
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SddBPTcmqOk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 <script type="text/x-mathjax-config">
