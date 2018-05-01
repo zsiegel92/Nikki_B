@@ -1133,7 +1133,35 @@ MathJax.Hub.Config({
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IRBfpBPELmE?rel=0&amp;start=60" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <h2 id="why-does-light-travel-slower-in-glass"><a name="user-content-why-does-light-travel-slower-in-glass" href="#why-does-light-travel-slower-in-glass" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Why does light travel slower in glass?</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CiHN0ZWE5bk?start=44" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p>Physics professors talking about light passing through glass.</p>
+<div id="profvid"></div>
+
+<script>
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('profvid', {
+      videoId: 'CiHN0ZWE5bk',
+      playerVars: {
+        autoplay: 0,
+        controls: 1,
+        modestbranding: 1,
+        loop: 1,
+        start:44,
+        playlist: 'CiHN0ZWE5bk'
+    },
+    events: {
+      onReady: function(e) {
+        e.target.setPlaybackRate(1.25); // set to half speed
+      }
+    }
+  });
+ }
+ // Written by @labnol
+</script>
 
 <h2 id="refraction-and-total-internal-reflection-applet"><a name="user-content-refraction-and-total-internal-reflection-applet" href="#refraction-and-total-internal-reflection-applet" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Refraction and Total Internal Reflection Applet</h2>
 <iframe width = "800" height="500" src="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_en.html"></iframe>

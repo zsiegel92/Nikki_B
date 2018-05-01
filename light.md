@@ -30,7 +30,35 @@ Textbook chapters 26-27.
 
 ## Why does light travel slower in glass?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CiHN0ZWE5bk?start=44" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Physics professors talking about light passing through glass.
+
+<div id="profvid"></div>
+<script>
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('profvid', {
+      videoId: 'CiHN0ZWE5bk',
+      playerVars: {
+        autoplay: 0,
+        controls: 1,
+        modestbranding: 1,
+        loop: 1,
+        start:44,
+        playlist: 'CiHN0ZWE5bk'
+    },
+    events: {
+      onReady: function(e) {
+        e.target.setPlaybackRate(1.25); // set to half speed
+      }
+    }
+  });
+ }
+ // Written by @labnol
+</script>
 
 ## Refraction and Total Internal Reflection Applet
 
@@ -43,6 +71,10 @@ Textbook chapters 26-27.
 ## What is a *Diffraction Grating*?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/flPSbngdLwI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+
 
 <script type="text/x-mathjax-config">
 MathJax.Hub.Register.StartupHook("TeX Jax Ready",function () {
