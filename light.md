@@ -1,5 +1,7 @@
 [Back to all lessons](.)
 
+stuff
+
 # Light and Energy
 Textbook chapters 26-27.
 
