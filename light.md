@@ -30,7 +30,7 @@ Textbook chapters 26-27.
 
 ## Why does light travel slower in glass?
 
-Physics professors talking about light passing through glass.
+Physics professors talking about light passing through glass (at 1.25x speed).
 
 <div id="profvid"></div>
 <script>
