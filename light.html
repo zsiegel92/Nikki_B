@@ -1129,13 +1129,23 @@ MathJax.Hub.Config({
 <li>1:00-2:50 Light is a wave because it undergoes <strong><em>diffraction</em></strong></li>
 <li>2:50 Light is not like a particle because it undergoes diffraction</li>
 <li>3:15 Interference and the <em>double slit experiment</em></li>
+<li>5:21 Intensity<ul>
+<li>$\text{Intensity} = \frac{\text{Power}}{\text{Area}}=\frac{\frac{\text{Energy}}{\text{Time}}}{\text{Area}}$</li>
+<li>$\text{Intensity}\propto \text{Amplitude}^2$ (doubling amplitude of wave quadruples its energy/intensity)</li>
+</ul>
+</li>
+<li>5:52 <strong><em>Electromagnetic Spectrum</em></strong></li>
+<li>6:08 <strong><em>Diffraction Patterns</em></strong> of light travelling through one slit or two slits</li>
 </ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IRBfpBPELmE?rel=0&amp;start=60" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<h2 id="why-does-light-travel-slower-in-glass"><a name="user-content-why-does-light-travel-slower-in-glass" href="#why-does-light-travel-slower-in-glass" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Why does light travel slower in glass?</h2>
+<h2 id="why-does-light-travel-slower-in-glass-watch-these-videos"><a name="user-content-why-does-light-travel-slower-in-glass-watch-these-videos" href="#why-does-light-travel-slower-in-glass-watch-these-videos" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Why does light travel slower in glass? (WATCH THESE VIDEOS!)</h2>
 <p>Physics professors talking about light passing through glass (at 1.25x speed).</p>
-<div id="profvid"></div>
+<div id="profvid1"></div>
 
+<div id="profvid2"></div>
+
+<p>(I'm glad ^this guy^ did all this rambling so I don't have to.)</p>
 <script>
   var tag = document.createElement('script');
   tag.src = "https://www.youtube.com/iframe_api";
@@ -1143,7 +1153,7 @@ MathJax.Hub.Config({
   firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('profvid', {
+    player = new YT.Player('profvid1', {
       videoId: 'CiHN0ZWE5bk',
       playerVars: {
         autoplay: 0,
@@ -1152,6 +1162,22 @@ MathJax.Hub.Config({
         loop: 1,
         start:44,
         playlist: 'CiHN0ZWE5bk'
+    },
+    events: {
+      onReady: function(e) {
+        e.target.setPlaybackRate(1.25); // set to half speed
+      }
+    }
+  });
+    player = new YT.Player('profvid2', {
+      videoId: 'YW8KuMtVpug',
+      playerVars: {
+        autoplay: 0,
+        controls: 1,
+        modestbranding: 1,
+        loop: 1,
+        start:44,
+        playlist: 'YW8KuMtVpug'
     },
     events: {
       onReady: function(e) {

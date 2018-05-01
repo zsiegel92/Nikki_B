@@ -25,14 +25,24 @@ Textbook chapters 26-27.
 * 1:00-2:50 Light is a wave because it undergoes ***diffraction***
 * 2:50 Light is not like a particle because it undergoes diffraction
 * 3:15 Interference and the *double slit experiment*
+* 5:21 Intensity
+	* $\text{Intensity} = \frac{\text{Power}}{\text{Area}}=\frac{\frac{\text{Energy}}{\text{Time}}}{\text{Area}}$
+	* $\text{Intensity}\propto \text{Amplitude}^2$ (doubling amplitude of wave quadruples its energy/intensity)
+* 5:52 ***Electromagnetic Spectrum***
+* 6:08 ***Diffraction Patterns*** of light travelling through one slit or two slits
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IRBfpBPELmE?rel=0&amp;start=60" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Why does light travel slower in glass?
+## Why does light travel slower in glass? (WATCH THESE VIDEOS!)
 
 Physics professors talking about light passing through glass (at 1.25x speed).
 
-<div id="profvid"></div>
+<div id="profvid1"></div>
+
+<div id="profvid2"></div>
+(I'm glad ^this guy^ did all this rambling so I don't have to.)
+
 <script>
   var tag = document.createElement('script');
   tag.src = "https://www.youtube.com/iframe_api";
@@ -40,7 +50,7 @@ Physics professors talking about light passing through glass (at 1.25x speed).
   firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
   var player;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('profvid', {
+    player = new YT.Player('profvid1', {
       videoId: 'CiHN0ZWE5bk',
       playerVars: {
         autoplay: 0,
@@ -49,6 +59,22 @@ Physics professors talking about light passing through glass (at 1.25x speed).
         loop: 1,
         start:44,
         playlist: 'CiHN0ZWE5bk'
+    },
+    events: {
+      onReady: function(e) {
+        e.target.setPlaybackRate(1.25); // set to half speed
+      }
+    }
+  });
+    player = new YT.Player('profvid2', {
+      videoId: 'YW8KuMtVpug',
+      playerVars: {
+        autoplay: 0,
+        controls: 1,
+        modestbranding: 1,
+        loop: 1,
+        start:44,
+        playlist: 'YW8KuMtVpug'
     },
     events: {
       onReady: function(e) {
