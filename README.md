@@ -7,6 +7,7 @@ Source for this website [here](https://github.com/zsiegel92/Nikki_B)
 * [Electric Potential](potential.html)
 * [Circuits](circuits.html)
 * [Light](light.html)
+* [Dual Nature of Particles and Waves](dual_nature.html)
 * [Other Topics](unfinished.html)
 
 ## Textbook
