@@ -9,6 +9,8 @@ Source for this website [here](https://github.com/zsiegel92/Nikki_B)
 * [Light](light.html)
 * [Dual Nature of Particles and Waves](dual_nature.html)
 * [Quantum Electrodynamics](quantum_electrodynamics.html)
+* [Special Relativity](relativity.html)
+* [Nuclear Physics](nuclear.html)
 * [Mental Health](mental_health.html)
 * [Other Topics](unfinished.html)
 

@@ -2,7 +2,26 @@
 
 # Quantum Electrodynamics
 
+[More about the Dual Nature of Particles and Waves](dual_nature.html)
+
+## Basic Descriptions of Quantum Phenomena
+
+**Only watch 5:20-10:30**
+
+* Particle-Wave Duality 5:50-6:45
+* Quantum Tunneling 6:45-8:00
+* Superposition 8:00-8:53
+* "No one really understands quantum physics" 9:45-10:28
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ARWBdfWpDyc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Where are we in our understanding of Quantum Electrodynamics?
+
+Scientists have demonstrated through experiments that classical mechanics do not describe the behavior of subatomic particles. The [double slit experiment](https://www.youtube.com/watch?v=DfPeprQ7oGc&t=56s) and [measurements of quantum spin](https://www.youtube.com/watch?v=ZuvK-od647c) demonstrate behavior of particles that is *probabalistic*, rather than *deterministic*, which classical mechanics does not predict.
+
+*Quantum Electrodynamics* (QED) can describe this behavior! But we still don't have much practical technology that utilizes QED, nor can we replicate these experiments in small labs. Still, QED describes the behavior of particles perfectly, and it's our job to learn to speak that (mathematical) language in order to understand these particles.
+
+For now, our understanding of QED is about where our understanding of *electricity* was in the 18th century.
 
 <div style="border-style: solid;border-width: 1px;padding:1px;">
 	Excerpt from Ben Franklin's pivotal <em>Experiments and Observations on Electricity</em> (1751):
@@ -23,18 +42,35 @@
 	</div>
 </div>
 
+## Quantum Entanglement: "Spooky Action at a Distance"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZuvK-od647c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Quantum Uncertainty FROM TEXTBOOK PAGE 593!
+
+Some stuff for an inline equation $\Delta p \Delta x \ge h$.
 
 
-### Chapters for test on May 31
-* 26 Properties of light
-* 27 Color
-* 30 Light Emission
-* 31 Light Quanta
-* 32 Atom and Quantum
-* 33 Atomic Nucleus and Radius
-* 34 Nuclear Fission and Fusion
-* 35 Special Relativity
+<br>
+<br>
+\\(x + y\\)
+
+<iframe width="560" height="315" src="https://mediaplayer.pearsoncmg.com/assets/ollfnCzTYdp0vScQM3pUXdsSxYDXMFW5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTk0ODI1MzM3NSwxOTExMjE2MjhdfQ==
 -->
+
+
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Register.StartupHook("TeX Jax Ready",function () {
+  MathJax.Hub.Insert(MathJax.InputJax.TeX.Definitions.macros,{
+    cancel: ["Extension","cancel"],
+    bcancel: ["Extension","cancel"],
+    xcancel: ["Extension","cancel"],
+    cancelto: ["Extension","cancel"]
+  });
+});
+</script>
