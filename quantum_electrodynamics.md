@@ -19,6 +19,8 @@ Check out this excerpt from Ben Franklin's pivotal *Experiments and Observations
 	<br><br>
 </div>
 
+Some stuff added from StackEdit.
+
 ### Chapters for test on May 31
 * 26 Properties of light
 * 27 Color
@@ -30,5 +32,5 @@ Check out this excerpt from Ben Franklin's pivotal *Experiments and Observations
 * 35 Special Relativity
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTIxNjI4XX0=
+eyJoaXN0b3J5IjpbLTkwMjAwNTE0LDE5MTEyMTYyOF19
 -->
