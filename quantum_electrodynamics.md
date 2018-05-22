@@ -48,19 +48,25 @@ For now, our understanding of QED is about where our understanding of *electrici
 
 ## Quantum Uncertainty FROM TEXTBOOK PAGE 593!
 
-Some stuff for an inline equation $\Delta p \Delta x \ge h$.
-
-
-<br>
-<br>
-\\(x + y\\)
 
 <iframe width="560" height="315" src="https://mediaplayer.pearsoncmg.com/assets/ollfnCzTYdp0vScQM3pUXdsSxYDXMFW5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+This description of quantum uncertainty perfectly explains why we cannot simultaneously know the position and momentum of a particle!
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODI1MzM3NSwxOTExMjE2MjhdfQ==
--->
+<object data="qedpage.pdf" type="application/pdf" width="700px" height="300px">
+    <embed src="qedpage.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="qedpage.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+<div style="text-align: center;">
+	<img src="txt_qr.png"><br>
+	The video loaded when I scanned this QR code in your textbook.
+</div>
+
+
+
+
 
 
 

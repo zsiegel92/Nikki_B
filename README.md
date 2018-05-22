@@ -16,7 +16,7 @@ Source for this website [here](https://github.com/zsiegel92/Nikki_B)
 
 ## Textbook
 
-Course focuses on chapters 19, 20, 22, 23, 24, 25, and 26 from [the textbook](https://drive.google.com/file/d/19d94qV01WXj7EmBJv-GL8lVnIX2wX89a/view?usp=sharing)
+[The textbook](https://drive.google.com/file/d/19d94qV01WXj7EmBJv-GL8lVnIX2wX89a/view?usp=sharing).
 
 ### Chapters for test on May 31
 * 26 Properties of light
@@ -27,6 +27,11 @@ Course focuses on chapters 19, 20, 22, 23, 24, 25, and 26 from [the textbook](ht
 * 33 Atomic Nucleus and Radius
 * 34 Nuclear Fission and Fusion
 * 35 Special Relativity
+
+### Previously Tested Chapters
+
+
+We covered chapters 19, 20, 22, 23, 24, and 25.
 
 
 
