@@ -48,7 +48,21 @@ For now, our understanding of QED is about where our understanding of *electrici
 
 ## Quantum Uncertainty FROM TEXTBOOK PAGE 593!
 
+The constant $\hbar$ is just a constant:
 
+\\[\hbar\approx 1.05\times 10^{−34} \underbrace{Js}\_\text{joule seconds}\\]
+
+The following inequalities describe the limit on "*what we can know about a particle*":
+
+$$
+\begin{align\*}
+\Delta p \Delta x &\ge \hbar \\\\
+\underbrace{\Delta p}\_\text{uncertainty in momentum} \ \underbrace{\Delta x}\_\text{uncertainty in position} &\ge \hbar \\\\
+&\text{and}\\\\
+\Delta E \Delta t &\ge \hbar \\\\
+\underbrace{\Delta E}\_\text{uncertainty in energy} \ \underbrace{\Delta t}\_\text{uncertainty in measurement duration} &\ge \hbar \\\\
+\end{align\*}
+$$
 <iframe width="560" height="315" src="https://mediaplayer.pearsoncmg.com/assets/ollfnCzTYdp0vScQM3pUXdsSxYDXMFW5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This description of quantum uncertainty perfectly explains why we cannot simultaneously know the position and momentum of a particle!
@@ -58,14 +72,13 @@ This description of quantum uncertainty perfectly explains why we cannot simulta
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="qedpage.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+<br>
 If page is hard to read, <a href="qedpage.pdf">click here</a>.
 
 <div style="text-align: center;">
 	<img src="txt_qr.png"><br>
 	The video loaded when I scanned this QR code in your textbook.
 </div>
-
-
 
 
 
