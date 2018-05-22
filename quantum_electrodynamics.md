@@ -58,6 +58,7 @@ This description of quantum uncertainty perfectly explains why we cannot simulta
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="qedpage.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+If page is hard to read, <a href="qedpage.pdf">click here</a>.
 
 <div style="text-align: center;">
 	<img src="txt_qr.png"><br>
