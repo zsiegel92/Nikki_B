@@ -28,4 +28,4 @@ Types of decay:
 
 * $\alpha$-decay emits an **alpha particle** (Helium nucleus) consisting of **two protons and two neutrons**
 * $\beta$-decay emits an electron (or positron) and a neutrino. **When a neutron undergoes beta decay, it turns into a proton**. (Alternatively, a proton can be converted into a neutron by emitting a positron, which is also $\beta$-decay.)
-# $\gamma$-decay emits the highest frequency of photons of any other known process.
+* $\gamma$-decay emits the highest frequency of photons of any other known process.
